@@ -29,4 +29,20 @@ MySQL | Power BI | Excel
 4. Store & Staff Performance
 5. Growth Trends
 
+## Dashboard Screenshots
+
+### Executive Summary
+![Executive Summary](dashboard_page1.jpeg)
+
+### Film Analysis
+![Film Analysis](dashboard_page2.jpeg)
+
+### Customer Insights
+![Customer Insights](dashboard_page3.jpeg)
+
+### Store & Staff Performance
+![Store Performance](dashboard_page4.jpeg)
+
+### Growth Trends
+![Growth Trends](dashboard_page5.jpeg)
    
